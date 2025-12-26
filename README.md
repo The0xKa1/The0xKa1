@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&pause=1000&color=F77878FF&background=FFAFDF00&center=true&width=435&lines=Here+is+The0xKa1+from+China+,+Turing+Class+of+ZJU+%e2%ad%90;I'm+now+majoring+in+computer+science;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&pause=1000&color=F77878FF&background=FFAFDF00&center=true&width=435&lines=I'm+The0xKa1+from+China+,+Turing+Class+of+ZJU+%e2%ad%90;I'm+now+majoring+in+computer+science;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 
