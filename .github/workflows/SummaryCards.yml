@@ -19,3 +19,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+      - name: Apply the README palette
+        run: |
+          python3 .github/scripts/style_summary_cards.py
+          git add profile-summary-card-output/klein
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "Update minimalist profile cards"
+            git push origin HEAD:main
+          fi
